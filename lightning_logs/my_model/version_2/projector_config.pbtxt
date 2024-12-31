@@ -1,0 +1,10 @@
+embeddings {
+  tensor_name: "Product_Type:00090"
+  metadata_path: "00090/Product_Type\\metadata.tsv"
+  tensor_path: "00090/Product_Type\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Store_Location:00090"
+  metadata_path: "00090/Store_Location\\metadata.tsv"
+  tensor_path: "00090/Store_Location\\tensors.tsv"
+}

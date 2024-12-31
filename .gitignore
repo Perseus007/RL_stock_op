@@ -1,0 +1,40 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+logs/
+tensorboard_logs/
+wandb/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Model checkpoints and saved models
+*.pt
+*.pth
+*.ckpt
+*.h5
+models/
+checkpoints/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo 
